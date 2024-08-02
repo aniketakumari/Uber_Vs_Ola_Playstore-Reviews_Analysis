@@ -1,12 +1,11 @@
 # Uber_Vs_Ola_Playstore-Reviews_Analysis
 
----
 
 ### Project Description
 
 This project presents a comprehensive analysis of user reviews from the Playstore for two major ride-hailing services: **Uber** and **Ola**. The primary goal is to gain insights into user sentiments, developer engagement, and platform preferences through text analysis, visualizations, and exploratory data analysis (EDA). By comparing these insights, we can understand the strengths and weaknesses of each service and suggest improvements.
 
----
+
 
 ### Key Insights and Achievements
 
